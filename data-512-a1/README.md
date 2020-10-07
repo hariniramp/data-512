@@ -36,7 +36,9 @@ The 5 JSON data files correspond to the 5 different API query types and are as f
 5. pageviews_mobile-web-site_200801-202008.json
 
 The final curated data file can be found [here](https://github.com/hariniramp/data-512/blob/main/data-512-a1/en-wikipedia_traffic_200712-202008.csv)
+
 The analysis or final visualization can be found [here](https://github.com/hariniramp/data-512/blob/main/data-512-a1/Page%20Views%20on%20English%20Wikipedia.png)
+
 All analysis is performed in a [Jupyter notebook](https://github.com/hariniramp/data-512/blob/main/data-512-a1/A1-Data%20Curation.ipynb).
 
 # Data Dictionary
