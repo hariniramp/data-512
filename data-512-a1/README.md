@@ -69,5 +69,9 @@ It must be noted that there are some caveats to consider when analyzing data fro
 
 3. It is possible that some months return 0s or errors from the API. The documentation mentioned above can be checked for these exceptions. 
 
+# Reproducibility
+This repository contains a Jupyter notebook that is entirely reproducible. One can download it and run it from start to finish to reproduce it. Each code chunk is preceded
+by a description of what the code chunk does for added clarity. For any further questions, mail the author at (hramprasad98@gmail.com)
+
 
 
