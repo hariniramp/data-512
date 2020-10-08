@@ -44,21 +44,21 @@ All analysis is performed in a [Jupyter notebook](https://github.com/hariniramp/
 # Data Dictionary
 The fields in the final curated data file are described as follows:
 
-1. pagecount_desktop_views: Number of views using desktop access obtained from the Legacy Pagecount API 
+1. _pagecount_desktop_views_: Number of views using desktop access obtained from the Legacy Pagecount API 
 
-2. pagecount_mobile_views: Number of views using mobile access obtained from the Legacy Pagecount API 
+2. _pagecount_mobile_views_: Number of views using mobile access obtained from the Legacy Pagecount API 
 
-3. pagecount_all_views: Number of views using desktop and mobile access obtained from the Legacy Pagecount API 
+3. _pagecount_all_views_: Number of views using desktop and mobile access obtained from the Legacy Pagecount API 
 
-4. pageview_mobile_views: Number of views using mobile app and mobile web access obtained from the Pageview API 
+4. _pageview_mobile_views_: Number of views using mobile app and mobile web access obtained from the Pageview API 
 
-5. pageview_desktop_views: Number of views using desktop access obtained from the Pageview API 
+5. _pageview_desktop_views_: Number of views using desktop access obtained from the Pageview API 
 
-6. pageview_all_views: : Number of views using mobile and desktop access obtained from the Pageview API 
+6. _pageview_all_views_: Number of views using mobile and desktop access obtained from the Pageview API 
 
-7. year: Calendar year of traffic data
+7. _year_: Calendar year of traffic data
 
-8. month: Calendar month of traffic data
+8. _month_: Calendar month of traffic data
 
 # Special Considerations
 It must be noted that there are some caveats to consider when analyzing data from the Wikimedia Foundation API. For example,
@@ -71,7 +71,7 @@ It must be noted that there are some caveats to consider when analyzing data fro
 
 # Reproducibility
 This repository contains a Jupyter notebook that is entirely reproducible. One can download it and run it from start to finish to reproduce it. Each code chunk is preceded
-by a description of what the code chunk does for added clarity. For any further questions, mail the author at (hramprasad98@gmail.com)
+by a description of what the code chunk does for added clarity. For any further questions, mail the author at hramprasad98@gmail.com
 
 
 
