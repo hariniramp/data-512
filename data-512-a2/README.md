@@ -1,3 +1,6 @@
+# Bias in Data
+## Author: Harini Ram Prasad
+
 # Project Goal
 The goal of this project is to conduct an exploratory data analysis on the [Wikipedia talk corpus](https://figshare.com/projects/Wikipedia_Talk/16731) for potential sources of bias. The 2 datasets I aim to analyze are the ones concerning [Toxicity](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973) and [Aggression](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Aggression/4267550).
 I chose these 2 datasets because both these datasets have been annotated similarly (on scales of -2 to 2, -2 being the most aggressive/toxic and 2 being the least aggressive/toxic). Thus, comparison is made more convenient.
