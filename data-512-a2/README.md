@@ -71,7 +71,7 @@ All analysis is performed in a [Jupyter notebook]() with method explanations, ob
 [Overview of Google’s Conversation AI project](https://conversationai.github.io/) 
 
 [Perspective Hacks Gallery](https://github.com/conversationai/perspectiveapi/wiki/perspective-hacks)
-
+ 
 # Reproducibility
 This repository contains a Jupyter notebook that is entirely reproducible. One can download it and run it from start to finish to reproduce it. Each code chunk is preceded
 by a description of what the code chunk does for added clarity. For any further questions, mail the author at hramprasad98@gmail.com
