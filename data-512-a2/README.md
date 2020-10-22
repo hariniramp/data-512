@@ -27,7 +27,7 @@ The dependencies used in analysis of the dataset are as follows:
 ![Aggressive comments labelling by education level](https://github.com/hariniramp/data-512/blob/main/data-512-a2/Visualizations/stacked_bargraph_aggression_education.png)
 
 From my analysis, it was apparent that the curators of the dataset had done their best to mitigate bias in this regard by moderating the dataset to contain a fairly equal proportion 
-of annotators from all groups across attributes like gender, age, education level and native English speaking ability. This is seen in the graphs below where the dataset is fairly equally
+of annotators from all groups across attributes like gender, age, education level and native English speaking ability. This is seen in the graphs above where the dataset is fairly equally
 distributed across all groups for people who labelled comments as aggressive and non-aggressive.
 
 2. My second analysis concerned the question: 
